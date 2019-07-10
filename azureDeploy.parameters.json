@@ -15,7 +15,7 @@
       "value": "new"
     },
     "virtualNetworkName": {
-      "value": "NET-Demo"
+      "value": "VNET-Shared"
     },
     "virtualNetworkAddressPrefix": {
       "value": "10.0.0.0/16"
