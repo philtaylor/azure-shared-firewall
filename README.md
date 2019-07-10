@@ -25,5 +25,5 @@ It includes following components:
 
  
  If bootstraping with default configuration file is used default credentials are:
- - Username: pandemo
- - Password: Dem0pa$$w0rd
+ - Username: paloalto
+ - Password: PaloAlt0!123!!
