@@ -4,7 +4,7 @@ Deploy a shared firewall infrastructure described in the Paloaltonetworks Azure 
 
 ![alt text](Architecture-Diagram.png)
 
-<a href='https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fphiltaylor%2Fazure-shared-firewall%2Fmaster%2FazureDeploy.json'>Deploy</a>
+[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fphiltaylor%2Fazure-shared-firewall%2Fmaster%2FazureDeploy.json)
 
 This template automates deployment of firewall LB sandwich environment for Egress Security.
 It includes following components:
