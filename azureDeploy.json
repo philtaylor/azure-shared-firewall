@@ -107,7 +107,7 @@
             }
         },
         "imageSku": {
-            "defaultValue": "bundle1",
+            "defaultValue": "byol",
             "allowedValues": [
                 "byol",
                 "bundle1",
@@ -152,14 +152,14 @@
             }
         },
         "username": {
-            "defaultValue": "pandemo",
+            "defaultValue": "paloalto",
             "type": "String",
             "metadata": {
                 "description": "Username of the administrator account of VM instances"
             }
         },
         "password": {
-            "defaultValue": "Dem0pa$$w0rd",
+            "defaultValue": "PaloAlt0!123!!",
             "type": "SecureString",
             "metadata": {
                 "description": "Password for the administrator account of all VM instances. Must be specified if Authentication Type is 'password'."
@@ -180,7 +180,7 @@
             }
         },
         "enable-palo-alto-bootstrap": {
-            "defaultValue": "false",
+            "defaultValue": "true",
             "type": "Bool",
             "metadata": {
                 "description": "Specifies if bootstrap storage account will be used"
