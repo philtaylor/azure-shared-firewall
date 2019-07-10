@@ -2,7 +2,7 @@
 Deploy a shared firewall infrastructure described in the Paloaltonetworks Azure Reference Architecture Guide
 
 
-(Architecture-Diagram.png)
+[(Architecture-Diagram.png)]
 
 <a href='https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fphiltaylor%2Fazure-shared-firewall%2Fmaster%2FazureDeploy.json'>Deploy</a>
 
